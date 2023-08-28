@@ -1,0 +1,37 @@
+body{
+    max-height: 100vh;
+}
+
+.up-section{
+    border: 1px black solid;
+    text-align: center;
+    height: 60px;
+}
+
+.nav {
+    border: 1px black solid;
+    text-align: center;
+    height: 60px;
+
+}
+
+.hero {
+    border: 1px black solid;
+    text-align: center;
+    height: 120px;
+
+}
+
+.main-section{
+    border: 1px black solid;
+    text-align: center;
+    height: 90px;
+
+}
+
+.footer{
+    border: 1px black solid;
+    text-align: center;
+    height: 60px;
+
+}
