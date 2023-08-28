@@ -3,17 +3,34 @@ body{
 }
 
 .up-section{
+    display: flex;
+    justify-content: center;
     border: 1px black solid;
-    text-align: center;
+    /* text-align: center; */
     height: 60px;
 }
 
+/* Navigation */
 .nav {
+    display: flex;
+    justify-content: center;
     border: 1px black solid;
-    text-align: center;
+    /* text-align: center; */
     height: 60px;
 
 }
+
+.nav-buttons-group{
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+
+li {
+    display: inline-block;
+}
+
+/* ------------------------------ */
 
 .hero {
     border: 1px black solid;
@@ -35,3 +52,4 @@ body{
     height: 60px;
 
 }
+
